@@ -1,0 +1,16 @@
+div h1{
+    color: red;
+}
+
+.center-info{
+    margin: auto;
+}
+
+.center-info img{
+    display: block;
+    margin: o auto;
+}
+
+.center-info h1{
+    text-align: center;
+}
